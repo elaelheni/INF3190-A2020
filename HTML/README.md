@@ -4,7 +4,7 @@ Constuire une page web contenant votre horaire lors de la session d'automne 2020
 
 La page sera construite en utilisant uniquement du HTML (sans CSS).
 
-Google Chrome sera utilisé pour tester l'affichage de la page web et l'éditeur de text de votre choix pour son écriture.
+Google Chrome sera utilisé pour tester l'affichage de la page web et l'éditeur de texte de votre choix pour son écriture.
 
 ## Objectifs 
 
