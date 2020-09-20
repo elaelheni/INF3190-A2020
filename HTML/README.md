@@ -21,14 +21,15 @@ Le but est de reporoduire la page suivante :
 ![](./img/Partie2.png)
 
 1 - Construisez un document HTML qui servira à contenir un horaire lors de la session d'automne 2020.
-Au début le `body` ne va contenir que le titre (Horaire Automne 2020) et un tableau contenant votre emlpoi du temps de la semaine.
+Au début le `body` ne va contenir que le titre (Horaire Automne 2020) et un tableau contenant l'emlpoi du temps de la semaine.
 
-2 - Comme le montre l'image, ajouter les cours INF2050 et INF3190 où indiqué.
+2 - Comme le montre l'image, ajoutez les cours INF2050 et INF3190 où indiqué.
 
-3 - Ajouter une section contenant le description des deux cours, en plus d'un lien à l'interieur de l'emploi du temps menant à la description de chaque cours.
+3 - Ajoutez une section contenant la description des deux cours, en plus d'un lien à l'interieur de l'emploi du temps menant à cette dernière.
 
-4 - Ajouter un lien menant vers la source de chaque description. Ainsi que les préalables de chaque cours.
+4 - Ajoutez un lien menant vers la source de chaque description. Ainsi que les préalables de chaque cours.
 
-5 - En bas du titre, ajoutez un logo de l'UQAM. En cliquant sur le logo on devrait pouvoir se rendre sur site de l'UQAM : https://uqam.ca
+5 - En bas du titre, ajoutez le logo de l'UQAM.
+En cliquant sur le logo on devrait pouvoir se rendre sur la page web de l'UQAM : https://uqam.ca
 
 6 - Essayez de reproduire les memes exercices avec votre propre horaire lors de la session d'automne 2020.
