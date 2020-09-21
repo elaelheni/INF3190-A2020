@@ -33,3 +33,7 @@ Au début le `body` ne va contenir que le titre (Horaire Automne 2020) et un tab
 En cliquant sur le logo on devrait pouvoir se rendre sur la page web de l'UQAM : https://uqam.ca
 
 6 - Essayez de reproduire les memes exercices avec votre propre horaire lors de la session d'automne 2020.
+
+
+
+**NOTE** : Le solutionnaire de cet exercice se trouve dans le répertoire [correction](./Correction)
