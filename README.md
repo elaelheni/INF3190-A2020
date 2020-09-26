@@ -7,12 +7,17 @@ Les séances d'ateliers ne seront pas enregistrées et un solutionnaire sera par
 
 ## Contenu
 - Première séance : [HTML](./HTML)
+- Deuxième séance : [PHP](./PHP)
 
 ## Contact 
-
 Au besoin vous pouvez m'envoyer un message direct sur le slack du cours, ou m'écrire à cette adresse : el-heni.ela@uqam.ca
 
+## Enregistements :
+- L'enregistrement de la première séance est disponible [ici](https://drive.google.com/file/d/11-2zs8at2c8HkhUXiFAx2XqIOe-DXl1U/view?usp=sharing)
+
 ## Liens utiles 
+- https://validator.w3.org
+- http://php.net/manual/en/function.sprintf.php
 
 ## Licence 
 Apache 2.0 : Vous êtes libres d'utiliser, modifier et distribuer ce code, tant que vous citez &copy; l'auteur original.
