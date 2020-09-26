@@ -25,6 +25,7 @@ Les structures de données à copier-coller dans votre programme PHP:
     ];
 
 - Le programme PHP doit produire un document HTML valide. La facture HTML doit être représentée sous la forme d'un tableau.
+
 **Note** : Pour valider votre HTML utilisez le [validateur du W3C](https://validator.w3.org/#validate_by_input)
 
 - Chaque ligne de la facture représentant un item de la commande devrait contenir la description du produit, la quantitée commandée et le prix total pour cet article.
