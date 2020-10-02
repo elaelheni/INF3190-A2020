@@ -18,6 +18,8 @@ Au besoin vous pouvez m'envoyer un message direct sur le slack du cours, ou m'é
 ## Liens utiles 
 - https://validator.w3.org
 - http://php.net/manual/en/function.sprintf.php
+- https://docs.emmet.io/abbreviations/syntax/
+- https://www.youtube.com/watch?v=rH1RTwaAeGc&t=604s
 
 ## Licence 
 Apache 2.0 : Vous êtes libres d'utiliser, modifier et distribuer ce code, tant que vous citez &copy; l'auteur original.
