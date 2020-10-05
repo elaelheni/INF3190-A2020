@@ -28,7 +28,7 @@ if (isset($_GET["chiffre"])){
     <title>Jeu</title>
 </head>
 <body>
-    <h3>Essayez de deviner un nombre entre 0 et 1000</h4>
+    <h3>Essayez de deviner un nombre entre 0 et 1000</h3>
     <br>
     <?php if($echec):?>
     <div>
@@ -38,7 +38,7 @@ if (isset($_GET["chiffre"])){
     <div>
         <?= $succes ?>
     </div>
-    <? endif ?>
+    <?php endif ?>
 
 
     <form action="jeu.php" method="GET">

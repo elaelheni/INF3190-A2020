@@ -1,3 +1,4 @@
+
 <!DOCTYPE html>
 <html lang="fr">
 <head>
@@ -8,5 +9,6 @@
 <body>
     <h2>Inscription</h2>
     
+   
 </body>
 </html>
