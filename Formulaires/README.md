@@ -18,7 +18,7 @@ Un message significatif devra s'afficher si le chiffre est trop petit, trop gran
 Le formulaire doit contenir :
 - Un nom
 - Un prénom
-- L'age (max 3 caractères)
+- L'age (max 2 caractères)
 - Une liste déroulante pour choisir le sex suivant la norme ISO5218
 
 Utilisez la méthode POST. Le serveur doit valider les données à la réception. L'age ne doit contenir que des chiffres et tous les champs sont obligatoires.
