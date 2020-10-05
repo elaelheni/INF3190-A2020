@@ -21,7 +21,7 @@ Le formulaire doit contenir :
 - L'age (max 2 caractères)
 - Une liste déroulante pour choisir le sex suivant la norme ISO5218
 
-Utilisez la méthode POST. Le serveur doit valider les données à la réception. L'age ne doit contenir que des chiffres et tous les champs sont obligatoires.
+Utilisez la méthode POST. Le serveur doit valider les données à la réception. L'age ne doit contenir que des chiffres et tous les champs (sauf la liste deroulante) sont obligatoires.
 
 3- L'utilisateur devra pouvoir choisir son parfum de glace préféré. Il peut en choisir plusieurs.
 
