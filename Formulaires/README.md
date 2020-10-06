@@ -33,6 +33,6 @@ Utilisez la méthode POST. Le serveur doit valider les données à la réception
 
 S'il y a plusieurs erreurs à communiquer, on affiche tous les messages en même temps.
 
-**Note** : Les squelettes des pages sont disponibles [ici](./Correction).
+**Note** : Les squelettes des pages sont disponibles [ici](./PHP).
 
 
