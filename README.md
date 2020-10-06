@@ -16,7 +16,7 @@ Au besoin vous pouvez m'envoyer un message direct sur le slack du cours, ou m'é
 ## Enregistements :
 - L'enregistrement de la première séance est disponible [ici](https://drive.google.com/file/d/11-2zs8at2c8HkhUXiFAx2XqIOe-DXl1U/view?usp=sharing)
 - L'enregistrement de la deuxième séance n'est pas disponible.
-
+- L'enregistrement de la troisième séance est disponible [ici](https://drive.google.com/file/d/1Xuxj_NQr2FTxWmtxo6qou5c4-OSaSfus/view?usp=sharing)
 ## Liens utiles 
 - https://validator.w3.org
 - http://php.net/manual/en/function.sprintf.php
