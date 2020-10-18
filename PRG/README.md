@@ -21,22 +21,20 @@ Exercices
    - Nom (35 caractères max)
    - Prénom (25 caractères max)
    - Adresse courriel
-   - Nom d'utilisateur
+   - Nom d'utilisateur (8 caractères max) 
    - Mot de passe
-   - Age (La personne doit avoir au moins 18 ans et au plus 35 ans pour pouvoir s'inscrire au site)
+   - Age (Le candidat doit avoir au moins 18 ans et au plus 35 ans pour pouvoir s'inscrire au site)
    - Le sex suivant la norme ISO-5218 (boutons radios, un seul choix possible).
 
 
-2. Ajoutez le champs pour permettre au candidat d'ajouter sa photo de profil. Les seules extensions accéptées seront `.png` et `.jpeg`.
+2. Ajoutez le champ pour permettre au candidat d'ajouter sa photo de profil. Les seules extensions accéptées seront `.png` et `.jpeg`.
 
-3. Le candidat doit spécifier quel type d'admission il aimerait choisir (boutons
-   radios, un seul choix possible) parmi les suivants :
-   - Membre régulier;
-   - Membre prémium;
+3. Le candidat doit spécifier quel type d'admission il aimerait choisir (boutons radios, un seul choix possible) parmi les suivants :
+   - Membre régulier
+   - Membre prémium
    - Membre observateur
  
 
 4. Un bouton `Soumettre` doit permettre au candidat de soumettre sa demande d'admission. Si toutes les contraintes sont respectées une page de confirmation devra etre affichée.
-
 
 6. En cas d'erreur, un message significatif devra s'afficher à l'écran.
