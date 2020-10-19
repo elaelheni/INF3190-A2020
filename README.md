@@ -9,7 +9,7 @@ Les séances d'ateliers ne seront pas enregistrées et un solutionnaire sera par
 - Première séance : [HTML](./HTML)
 - Deuxième séance : [PHP](./PHP)
 - Troisième séance : [Formulaires](./Formulaires)
-- Quatrième séance :[Post-Redirect-Get](./PRG)
+- Quatrième séance : [Post-Redirect-Get](./PRG)
 
 ## Contact 
 Au besoin vous pouvez m'envoyer un message direct sur le slack du cours, ou m'écrire à cette adresse : el-heni.ela@uqam.ca
