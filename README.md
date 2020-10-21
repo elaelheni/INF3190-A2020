@@ -3,8 +3,6 @@
 Ce dépot contient les exercices du laboratoire du cours INF3190.
 
 
-Les séances d'ateliers ne seront pas enregistrées et un solutionnaire sera partagé à la fin de chaque séance.
-
 ## Contenu
 - Première séance : [HTML](./HTML)
 - Deuxième séance : [PHP](./PHP)
