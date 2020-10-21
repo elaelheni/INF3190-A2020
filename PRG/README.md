@@ -13,7 +13,7 @@ Objectifs
 Exercices
 ---------
 
-1. Commencez par créer une classe `header.php` et une deuxième classe `footer.php` . On fera appel à ces classes dans le reste des pages de cet exercie.
+1. Commencez par créer une classe `head.php` et une deuxième classe `tail.php` . On fera appel à ces classes dans le reste des pages de cet exercie.
 
 2. Créez un fomulaire d'inscription (avec la méthode POST) à un site de rencontre.
 
