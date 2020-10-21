@@ -26,6 +26,7 @@ Au besoin vous pouvez m'envoyer un message direct sur le slack du cours, ou m'é
 - https://docs.emmet.io/abbreviations/syntax/
 - https://www.youtube.com/watch?v=rH1RTwaAeGc&t=604s
 - https://www.php.net/manual/fr/function.header.php
+- https://andy-carter.com/blog/difference-between-include-and-require-statements-in-php
 
 ## Licence 
 Apache 2.0 : Vous êtes libres d'utiliser, modifier et distribuer ce code, tant que vous citez &copy; l'auteur original.
