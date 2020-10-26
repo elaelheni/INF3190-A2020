@@ -1,0 +1,39 @@
+body{
+    background: #EFFAF1 ;
+}
+h3 {
+    color: #08200c;
+    font-size: 200%;
+}
+.infoPublication{
+    font-size: small;
+    font-style: italic;
+}
+.colonneGauche{
+    float: left;
+    width: 75;
+}
+.colonneDroite{
+    float: right;
+    width: 25%;
+}
+.textArticle{
+    border-style: dotted;
+    padding: 15px;
+    border-color: #A5570E;
+}
+img{
+    position: relative;
+    width: 500px;
+    height: 400px;
+    bottom: 60px;
+
+
+}
+h1{
+    float: left;
+    color: #08200c;
+}
+li{
+    padding: 5px;
+}
