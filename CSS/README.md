@@ -18,7 +18,7 @@ Exercices
    [Lorem Ipsum](https://www.lipsum.com) pour le texte des paragraphes. Ajoutez une feuille de style CSS à
    votre document HTML grâce à la balise `link`.
 
-2. Ajoutez un style sur l'élément `h1` pour que le titre soit de la couleur : #C6939B et souligné.
+2. Ajoutez un style sur l'élément `h1` pour que le titre soit de la couleur : `#C6939B` et souligné.
 
 3. Faites en sorte que le titre soit plus petit de 25%.
 
