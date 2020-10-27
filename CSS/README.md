@@ -31,7 +31,7 @@ Exercices
 
 6. Changez la police de caractères pour tous les paragraphes, sauf pour le titre.
 
-8. Ajoutez une marge significative au deuxième paragraphe.
+8. Ajoutez une marge significative au titre du paragraphe paragraphe.
 
 9. Placez un formulaire avec 3 champs texte et 3 labels dans le bas de la page. Tentez
    d'aligner les 3 champs texte sans utiliser de tableau.
