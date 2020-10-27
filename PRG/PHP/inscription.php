@@ -98,7 +98,9 @@ function verificationDonnees(){
 }
 
 if ($message == ""){
-    header("Location: confirmation.php", false, 303);
+    #header("Location: confirmation.php", false, 303);
+    #Ou simplement :
+    header("Location: confirmation.php");
       exit;
 }
 ?>
