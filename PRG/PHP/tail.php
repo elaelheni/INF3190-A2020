@@ -12,7 +12,6 @@
     <div class="footer-bottom">
         <p class="credits"> &copy; Tous droits reservés aux auteurs du site  - 2020</p>
     </div>
-
 </div>
 </footer>
 <!--end footer-->       

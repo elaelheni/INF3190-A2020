@@ -3,9 +3,10 @@
 /*
 Message significatif pour chaque erreur et redirection
 */
-
+$message = null;
 
 function nomValide(){
+    global $message;
     $nomEstValide = true;
     if(!isset($_POST["nom"])){
         http_response_code(400);
@@ -25,6 +26,7 @@ function nomValide(){
 }
 
 function prenomValide(){
+    global $message;
     $prenomEstValide = true;
 
     if(!isset($_POST["prenom"])){
@@ -46,6 +48,7 @@ function prenomValide(){
 }
 
 function nomUtilisateurValide(){
+    global $message;
     $nomUtEstValide = true;
     if(!isset($_POST["nom-utilisateur"])){
         http_response_code(400);
@@ -54,7 +57,7 @@ function nomUtilisateurValide(){
     $nomUtilisateur = $_POST["nom-utilisateur"];
 
     if((empty($nomUtilisateur))){
-        $message = "Le champ prénom est obligatoire<";
+        $message = "Le champ prénom est obligatoire";
         $nomUtEstValide = false;
     }
     if(strlen($nomUtilisateur) > 8){
@@ -65,6 +68,7 @@ function nomUtilisateurValide(){
 }
 
 function ageValide(){
+    global $message;
     $ageEstValide = true;
     if(!isset($_POST["age"])){
         http_response_code(400);
@@ -73,7 +77,7 @@ function ageValide(){
     $age = $_POST["age"];
 
     if(empty($age)){
-        $message = "Le champ âge est obligatoire";
+        $message =  "Le champ âge est obligatoire";
         $ageEstValide = false;
     }
     if(strlen($age) > 2 || !is_numeric($age)){
@@ -84,6 +88,7 @@ function ageValide(){
 }
 
 function verificationDonnees(){
+    
 
     $prenomValide = $nomValide = $ageValide = $nomUtilisateurValide = false;
 
@@ -97,7 +102,7 @@ function verificationDonnees(){
     return $prenomValide && $nomValide && $ageValide && $nomUtilisateurValide;
 }
 
-if ($message == ""){
+if (verificationDonnees()){
     #header("Location: confirmation.php", false, 303);
     #Ou simplement :
     header("Location: confirmation.php");
@@ -108,10 +113,14 @@ if ($message == ""){
 <?php require 'head.php' ?>
 
 <br>
+salut
     <?php if($message):?>
+        mahlek
     <div>
-        <?= $message ?>
+        coucou
+        <p><?= $message ?></p>
     </div>
+    beaute
     <?php endif ?>
 
 <form action="inscription.php" method="post">

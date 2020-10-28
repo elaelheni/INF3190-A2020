@@ -4,17 +4,14 @@
     <meta charset="UTF-8">
     <meta name="description" content="Exercice INF3190">
     <title>Site de rencontre</title>
-
     <!-- CSS -->
     <link rel="stylesheet" href="path" type="text/css">
 </head>
 <body>
         <!-- header -->
-
         <header class="header">
             <div class="container">
                 <a href="index.php"> <img src="path" class="logo" alt="logo_site"/> </a>
-
                 
                 <nav>
                     <ul class="nav">
@@ -31,5 +28,4 @@
                 </nav>
             </div>
         </header>
-
         <!-- end header -->
