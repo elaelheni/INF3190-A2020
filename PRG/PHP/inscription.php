@@ -113,14 +113,10 @@ if (verificationDonnees()){
 <?php require 'head.php' ?>
 
 <br>
-salut
     <?php if($message):?>
-        mahlek
     <div>
-        coucou
         <p><?= $message ?></p>
     </div>
-    beaute
     <?php endif ?>
 
 <form action="inscription.php" method="post">
