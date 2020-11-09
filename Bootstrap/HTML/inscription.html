@@ -10,29 +10,60 @@
     <h2>Inscription</h2>
 
     <form action="" method="POST">
-    <div class="">
+    <div class="form-group">
         <label for="champ-nom">Nom :</label>
-        <input type="text" class="" name="nom" id="champ-nom">
+        <input type="text" class="form-control form-control-lg" name="nom" id="champ-nom">
     </div>
-    <div class="">
+    <div class="form-group">
         <label for="champ-prenom">Prénom :</label>
-        <input type='text' name='prenom' class='' id='champ-prenom' >
+        <input type='text' name='prenom' class="form-control form-control-lg" id='champ-prenom' >
     </div>
-    <div>
+    <div class="form-group">
         <label for="champ-age">Age :</label>
-        <input type='number' name='age' id='champ-age'>
+        <input type='number' name='age' id='champ-age' class="form-control form-control-lg">
     </div>
-    <div>
+    <div class="form-group">
         <label for="champ-sex">Sex :</label>
-        <select name="sex" id="champ-sex">
+        <select name="sex" id="champ-sex" class="form-control form-control-lg">
             <option value="" selected="selected">0: inconnu</option>
             <option value="">1: masculin</option>
             <option value="">2: feminin</option>
             <option value="">9: sans objet</option>
         </select>
     </div>
+    <h4>Choisissez votre parfum de glace préféré</h4>
+    <br>
+    <div class="form-check form-check-inline">
+        <input type="checkbox" id="champ-glace" name="Fraise" class="form-check-input">
+        <label for="champ-glace" class="form-check-label">Fraise</label>
+    </div>
+    <div class="form-check form-check-inline">
+        <input type="checkbox" id="champ-glace" name="Vanille" class="form-check-input">
+        <label for="champ-glace" class="form-check-label">Vanille</label>
+    </div>
+    <div class="form-check form-check-inline">
+        <input type="checkbox" id="champ-glace" name="Chocolat" class="form-check-input">
+        <label for="champ-glace" class="form-check-label">Chocolat</label>
+    </div>
+    <h4>Essai avec les checkbox</h4>
+    <br>
+    <div class="form-check form-check-inline">
+        <input class="form-check-input" type="radio" name="inlineRadioOptions" id="inlineRadio1" value="option1">
+        <label class="form-check-label" for="inlineRadio1">1</label>
+    </div>
+    <div class="form-check form-check-inline">
+        <input class="form-check-input" type="radio" name="inlineRadioOptions" id="inlineRadio2" value="option2">
+        <label class="form-check-label" for="inlineRadio2">2</label>
+    </div>
+    <div class="form-check form-check-inline">
+        <input class="form-check-input" type="radio" name="inlineRadioOptions" id="inlineRadio3" value="option3">
+        <label class="form-check-label" for="inlineRadio3">3</label>
+    </div>
+
+    <br>
     <div>
-        <button type="submit">
+        <button type="submit" class="btn btn-info">Soumettre</button>
+    </div>
 
     </form>
 </body>
