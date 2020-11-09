@@ -37,6 +37,7 @@ if($age<0 || $age>99){
 <head>
     <meta charset="UTF-8">
     <meta name="description" content="Exercice INF3190">
+    <link rel="stylesheet" href=""
     <title>Inscription</title>
 </head>
 <body>
