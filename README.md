@@ -10,6 +10,8 @@ Ce dépot contient les exercices du laboratoire du cours INF3190.
 - Quatrième séance : [Post-Redirect-Get](./PRG)
 - Cinquième séance : [CSS](./CSS)
 - Séance bonus : [Révision](./Revision) pour l'examen intra
+- Sixième séance : [Bootstrap](./Bootstrap)
+- Septième séance : Correction de l'examen intra + Q&A pour TP2
 
 ## Contact 
 Au besoin vous pouvez m'envoyer un message direct sur le slack du cours, ou m'écrire à cette adresse : el-heni.ela@uqam.ca
@@ -21,6 +23,7 @@ Au besoin vous pouvez m'envoyer un message direct sur le slack du cours, ou m'é
 - La quatrième séance n'a pas été enregistrée.
 - L'enregistrement de la cinquième séance est disponible [ici](https://drive.google.com/file/d/1ZTIZCu7rB1qJp2M0jX447rSkOo4qrFuG/view?usp=sharing)
 - L'enregistrement de la séance de révision est diponible [ici](https://drive.google.com/file/d/1D24psKHJmgB_6yyzloYMv0htN68AoczP/view?usp=sharing)
+- L'enregistrement de la sixième séance est disponible [ici]()
 
 ## Liens utiles 
 - https://validator.w3.org
@@ -29,6 +32,9 @@ Au besoin vous pouvez m'envoyer un message direct sur le slack du cours, ou m'é
 - https://www.youtube.com/watch?v=rH1RTwaAeGc&t=604s
 - https://www.php.net/manual/fr/function.header.php
 - https://andy-carter.com/blog/difference-between-include-and-require-statements-in-php
+- https://getbootstrap.com
+- https://getbootstrap.com/docs/4.0/components/forms/
+- https://getbootstrap.com/docs/4.0/components/buttons/
 
 ## Licence 
 Apache 2.0 : Vous êtes libres d'utiliser, modifier et distribuer ce code, tant que vous citez &copy; l'auteur original.
