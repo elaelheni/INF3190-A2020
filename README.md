@@ -23,7 +23,7 @@ Au besoin vous pouvez m'envoyer un message direct sur le slack du cours, ou m'é
 - La quatrième séance n'a pas été enregistrée.
 - L'enregistrement de la cinquième séance est disponible [ici](https://drive.google.com/file/d/1ZTIZCu7rB1qJp2M0jX447rSkOo4qrFuG/view?usp=sharing)
 - L'enregistrement de la séance de révision est diponible [ici](https://drive.google.com/file/d/1D24psKHJmgB_6yyzloYMv0htN68AoczP/view?usp=sharing)
-- L'enregistrement de la sixième séance est disponible [ici]()
+- L'enregistrement de la sixième séance est disponible [ici](https://drive.google.com/file/d/1c0VhkETKWaIHocHsQFIUWqhyOJQ2gTFr/view?usp=sharing)
 
 ## Liens utiles 
 - https://validator.w3.org
