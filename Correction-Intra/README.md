@@ -14,33 +14,53 @@ automatiquement la note de l'étudiant.
 ​
 En plus d'un champ de saisie pour le code permenant, le formulaire doit
 contenir ces 5 questions:
+
+
 ​
 **1. Vrai ou Faux. Lorsque le fureteur affiche une page HTML, les espaces
 consécutives sont remplacées par une seule espace.**
+
+
 ​
 **2. Vrai ou Faux. La balise <link> est la version "HTML5" de la balise <a>.**
+
+
 ​
 **3. Quelle est la priorité du sélecteur CSS suivant:**
+
+
 ​
     #grille-principale > div.rangee > div.colonne
+
+
 ​
 - 0, 0, 0, 1
 - 0, 0, 1, 1
 - 0, 1, 2, 2
 - 0, 1, 3, 2
+
+
 ​
 **4. L'attribut "for" de la balise <label> doit avoir la même valeur que:**
+
+
 ​
 - l'attribut "class" de l'input associé
 - l'attribut "id" de l'input associé
 - l'attribut "name" de l'input associé
 - l'attribut "value" de l'input associé
+
+
 ​
 **5. HTTP est un protocole sans état. Quelles techniques permettent de conserver
 des données entre deux requêtes HTTP?**
 ​
+
+
 *Cochez toutes les réponses qui s'appliquent.*
 ​
+
+
 - En ajoutant des paramètres à l'URL de redirection
 - En ajoutant des cookies
 - En utilisant une session web
@@ -106,23 +126,3 @@ jolie.
 L'esthétisme, l'ergonomie et l'utilisabilité de l'interface ne seront pas
 évaluées. Cependant, une attention raisonnable doit être apportée à la
 lisibilité du code source.
-​
-​
-### Remise de l'examen
-​
-La remise de l'intra se fait de la même façon que la remise des travaux
-pratiques. Créez un nouveau repo Github et ajoutez mon compte comme contributeur
-(`fxg42`). Vous devez _obligatoirement_ m'envoyer votre code permanent et
-l'hyperlien vers la page github du repo dans un message privé (DM) dans le Slack
-du cours.
-​
-Pour la correction, j'utiliserai le commit le plus proche de la date et l'heure
-de remise soit dimanche le 1er novembre, 12h30.
-​
-N'oubliez pas de commiter votre code et n'oubliez pas de le pousser vers github!
-​
-Si vous n'arrivez pas à utiliser git ou github, vous pouvez _exceptionnellement_
-zipper les fichiers sources et me les envoyer dans un message privé sur Slack
-avec votre code permanent.
-​
-Pensez à écrire votre nom et code permanent dans l'entête des fichiers sources.
