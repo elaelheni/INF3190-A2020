@@ -11,7 +11,7 @@ Ce dépot contient les exercices du laboratoire du cours INF3190.
 - Cinquième séance : [CSS](./CSS)
 - Séance bonus : [Révision](./Revision) pour l'examen intra
 - Sixième séance : [Bootstrap](./Bootstrap)
-- Septième séance : Correction de l'examen intra + Q&A pour TP2
+- Septième séance : [Correction](./Correction-Intra) de l'examen intra
 
 ## Contact 
 Au besoin vous pouvez m'envoyer un message direct sur le slack du cours, ou m'écrire à cette adresse : el-heni.ela@uqam.ca
