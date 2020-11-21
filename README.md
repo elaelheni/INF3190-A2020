@@ -12,6 +12,7 @@ Ce dépot contient les exercices du laboratoire du cours INF3190.
 - Séance bonus : [Révision](./Revision) pour l'examen intra
 - Sixième séance : [Bootstrap](./Bootstrap)
 - Septième séance : [Correction](./Correction-Intra) de l'examen intra
+- Séance annulée : [Soutien](./Soutien) pour le TP
 
 ## Contact 
 Au besoin vous pouvez m'envoyer un message direct sur le slack du cours, ou m'écrire à cette adresse : el-heni.ela@uqam.ca
