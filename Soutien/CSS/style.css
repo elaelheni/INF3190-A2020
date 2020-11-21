@@ -1,0 +1,45 @@
+.err { color: red; }
+
+html, body{
+    padding : 0%;
+    margin :0%;
+    float : center;
+}
+body {
+    font-family: 'Raleway', sans-serif;
+    min-height: 100%;
+}
+h3.titre{
+    color : #4E60B5;
+    padding-top: 80px;
+    text-align:center;
+}
+.contenu {
+    padding-bottom: 60px;
+    padding-left: 50px;
+    padding-right: 50px;
+
+}
+.informations {
+    float : center;
+
+}
+
+.creation {
+    position: relative;
+    float : center;
+    padding-bottom: 30px;
+    padding-top: 30px;
+
+}
+
+.header {
+    background-color:#E1E3EB;
+    padding-bottom: 10px;
+    
+}
+footer{
+    background-color: #E1E3EB;
+    display: block;
+    padding-top: 20px;
+}
