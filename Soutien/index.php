@@ -16,7 +16,7 @@ require 'head.php';
 
   <?= $_GET['succes'] ?>
 </div>
-<? endif; ?>
+<?php endif; ?>
 </div>
 
 <div class="entete">
@@ -56,4 +56,4 @@ require 'head.php';
     </form>
 </div>
 </div>
-<?php require 'tail.php' ?>
+<?php require 'tail.php'; ?>

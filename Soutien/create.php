@@ -75,7 +75,7 @@ require 'head.php';
 <div class="informations">
     <?php if ($message) : ?>
         <div class="alert alert-danger" role="alert">OOPS! Des erreurs empechent l'ajout du plat!</div>
-    <? endif ?>
+    <?php endif; ?>
 
 </div>
 
@@ -93,20 +93,20 @@ require 'head.php';
             <input type="text" id="champ-plat" name="plat" value=<?= $plat ?> >
             <?php if (!$platValide): ?>
                 <p class="err"><?= $mesPlatVal ?></p>
-            <? endif; ?>
+            <?php endif; ?>
             <?php if (!$platExite): ?>
                 <p class="err"><?= $mesPlatExi ?></p>
-            <? endif; ?>
+            <?php endif; ?>
         </div>
         <div class="form-group">
             <label for="champ-prix">Prix du plat</label>
             <input type="text" id="champ-prix" name="prix" value=<?= $prix ?> >
             <?php if (!$prixValide): ?>
                 <p class="err"><?= $mesPrixVal?></p>
-            <? endif; ?>
+            <?php endif; ?>
             <?php if (!$prixExiste): ?>
                 <p class="err"><?= $mesPrixExi ?></p>
-            <? endif; ?>
+            <?php endif; ?>
 
 
 
@@ -117,4 +117,6 @@ require 'head.php';
     </form>
 
 </div>
-<?php require 'tail.php' ?>
+<?php
+require 'tail.php';
+?>
