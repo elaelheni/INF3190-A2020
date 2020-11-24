@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <title>JavaScript</title>
+    <script src="../JS/validations.js"></script>
+</head>
+<body>
+<form method="post" onsubmit="return validerFormulaire();">
+    <label for="champ-nom">Nom</label>
+    <input type="text" name="champ-nom" id="nom">
+    <span id="nom-erreur"></span>
+    <br>
+    <label for="champ-prenom">Prénom</label>
+    <input type="text" name="champ-prenom" id="prenom">
+    <span id="prenom-erreur"></span>
+    <br>
+    <label for="champ-date">Date de naissance</label>
+    <input type="text" name="champ-date" id="date">
+    <span id="date-erreur"></span>
+    <br>
+    <label for="champ-genre">Genre</label>
+    <input type="text" name="champ-genre" id="genre">
+    <span id="genre-erreur"></span>
+    <br>
+    <button type="submit">Soumettre</button>
+</form>
+</body>
+</html>

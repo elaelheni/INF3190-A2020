@@ -7,7 +7,7 @@ Le Javascript est une technologie cruciale en développement web. Elle est la ba
 
 ## Exercices 
 
-1 - Créer un document HTM avec un titre, 3 paragraphes et un bouton. En appuyant sur le bouton les paragraphes changent d'ordre.
+1 - Créer un document HTML avec un titre, 3 paragraphes et un bouton. En appuyant sur le bouton les paragraphes changent d'ordre.
 
 2 - En appuyant sur le titre, ce dernier change de couleur.
 
@@ -19,4 +19,4 @@ Le Javascript est une technologie cruciale en développement web. Elle est la ba
 
 Grace à une validation avec Javascript, le seul format de date accépté sera le format ISO8601.
 
-4 - Ajoutez un champ texte pour le genre de la personne, grace à une validation JavaScript les seules valeurs possibles sont `F`, `M` et `A`.
+4 - Ajoutez un champ texte pour le genre de la personne, grace à une validation JavaScript les seules valeurs possibles sont `F` et `M`.
