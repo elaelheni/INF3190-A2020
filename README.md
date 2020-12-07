@@ -16,8 +16,6 @@ Ce dépot contient les exercices du laboratoire du cours INF3190.
 - Huitième séance : [JavaScript](./JavaScript)
 - Neuvième séance : [Ajax](./Ajax)
 
-## Contact 
-Au besoin vous pouvez m'envoyer un message direct sur le slack du cours, ou m'écrire à cette adresse : el-heni.ela@uqam.ca
 
 
 ## Liens utiles 
